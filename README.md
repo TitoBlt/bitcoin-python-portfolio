@@ -67,6 +67,21 @@ Each project lives in its own folder and includes:
 
 ---
 
+## 🖥️ Portfolio Site
+
+The portfolio landing page lives at the repo root as `index.html` with styles in
+`styles.css`.
+
+**How to view it locally**
+
+```bash
+python -m http.server 8000
+```
+
+Then open: http://localhost:8000/index.html
+
+---
+
 ## 📬 Contact
 
 - GitHub: https://github.com/TitoBlt
